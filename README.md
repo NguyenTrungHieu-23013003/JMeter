@@ -120,8 +120,7 @@ Qua bài thực hành, đã học và áp dụng được:
 - Thêm Response Assertion để tự động kiểm tra mỗi response có đúng status code mong đợi không
 - Đọc và hiểu các chỉ số hiệu năng quan trọng: Average, Min/Max, Error %, Throughput, và các mốc Percentile (90%/95%/99%) trong Aggregate Report
 - Nhận ra sự khác biệt giữa JMeter (đo hiệu năng dưới tải) và Postman (kiểm tra tính đúng đắn của từng request riêng lẻ)
-
-<!-- THAY VÀO: 1-2 câu nhận xét riêng của bạn, ví dụ server có chịu tải tốt không, error % cao hay thấp, có gì bất ngờ khi tăng số luồng -->
+- Do ban đầu cấu hình sai nên có bị fail 3 lần và lần thứ 4 mới pass nên phần trăm Error mới đạt 75.00%
 
 ## 7. Tài liệu tham khảo
 
