@@ -80,7 +80,7 @@ Sau khi chạy (Ctrl+R), các request hiện màu xanh nghĩa là Pass (status 2
 
 | Label | # Samples | Average (ms) | Min (ms) | Max (ms) | Error % | Throughput (req/sec) |
 |---|---|---|---|---|---|---|
-| HTTP Request | <!-- 50 --> | <!-- ví dụ 220 --> | <!-- ví dụ 150 --> | <!-- ví dụ 480 --> | <!-- ví dụ 0% --> | <!-- ví dụ 9.5 --> |
+| TOTAL | 200 | 46 | 0 | 1013 | 75.00% | 51.3/min |
 
 <!-- THAY SỐ LIỆU THẬT: đọc trực tiếp từ bảng Summary Report sau khi chạy test trong JMeter, điền đúng số bạn đo được -->
 
@@ -92,7 +92,7 @@ Sau khi chạy (Ctrl+R), các request hiện màu xanh nghĩa là Pass (status 2
 
 | Label | # Samples | Average (ms) | 90% Line | 95% Line | 99% Line | Error % | Throughput |
 |---|---|---|---|---|---|---|---|
-| HTTP Request | <!-- điền --> | <!-- điền --> | <!-- điền --> | <!-- điền --> | <!-- điền --> | <!-- điền --> | <!-- điền --> |
+| TOTAL | 200 | 46 | 84 | 217 | 727 | 75.00% | 51.3/min |
 
 <!-- THAY SỐ LIỆU THẬT -->
 
